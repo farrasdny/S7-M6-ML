@@ -9,13 +9,17 @@ Berikut atribut-atribut yang harus diinput ke dalam web predict:
 - Hours per Week: jumlah jam yang dihabiskan untuk bekerja dalam seminggu
 - Native Country: asal daerah
 
-**Tampilan Web**
+# **Tampilan Web**
 ![image](https://github.com/farrasdny/S7-M6-ML/assets/71580610/e933c6d0-9812-4a39-a027-c0a1d4c746a0)
+
 Gambar di atas adalah tampilan untuk input data yang ingin diprediksi pendapatannya
 
 ![image](https://github.com/farrasdny/S7-M6-ML/assets/71580610/f6db3feb-2d56-411b-a33f-67768d23ac4d)
+
 Gambar di atas adalah hasil prediksi pendapatan 
 
-**Flask**
+# **Flask**
+
 ![flask1](https://github.com/farrasdny/S7-M6-ML/assets/71580610/c26ba2ed-fca8-42ef-a68d-db2522b6d1e7)
+
 Flask adalah sebuah framework web mikro yang ditulis dalam bahasa pemrograman Python. Flask dirancang untuk menjadi sederhana dan mudah digunakan, namun cukup kuat untuk membangun aplikasi web yang berkualitas.
