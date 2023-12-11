@@ -20,6 +20,6 @@ Gambar di atas adalah hasil prediksi pendapatan
 
 # **Flask**
 
-![flask1](https://github.com/farrasdny/S7-M6-ML/assets/71580610/c26ba2ed-fca8-42ef-a68d-db2522b6d1e7)
+![flask-python](https://github.com/farrasdny/S7-M6-ML/assets/71580610/c4b9f867-b8d5-4a27-8325-3039ca641988)
 
 Flask adalah sebuah framework web mikro yang ditulis dalam bahasa pemrograman Python. Flask dirancang untuk menjadi sederhana dan mudah digunakan, namun cukup kuat untuk membangun aplikasi web yang berkualitas.
